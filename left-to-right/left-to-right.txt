@@ -1,0 +1,11 @@
+
+CPSC 335-x - Programming Assignment #1
+The alternating disks problem: left-to-right algorithm
+Enter the number of single color disks (light or dark)
+4
+Initial configuration
+d l d l d l d l 
+After moving darker ones to the left
+l l l l d d d d 
+Number of swaps is 10
+s is 15
